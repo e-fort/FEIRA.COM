@@ -4,7 +4,10 @@
 
 Este projeto tem como objetivo modelar e implementar um sistema de assinatura semanal de entrega de frutas, legumes e verduras, com base no caso de uso "Assinar Serviço de Feira".
 
+[FEIRA.COM-1.pdf](https://github.com/user-attachments/files/26448620/FEIRA.COM-1.pdf)
+
 O sistema permite que um assinante:
+
 - realize autenticação via celular (simulada)
 - escolha um plano de assinatura
 - selecione produtos (frutas, legumes e verduras)
@@ -55,6 +58,9 @@ O projeto foi desenvolvido em Java e contém:
 ---
 
 ## 🔄 Fluxo Principal Implementado
+
+[FEIRA.COM-2.pdf](https://github.com/user-attachments/files/26448629/FEIRA.COM-2.pdf)
+
 
 O sistema simula o fluxo principal do caso de uso:
 
